@@ -1,0 +1,36 @@
+===== Above Picking up peg
+Current world location: x=416.389, y=-292.849, z=-79.999, w=177.157, p=-4.993, r=-2.357, f=False, u=True, t=True
+
+===== Picking up the peg
+Current world location: x=416.234, y=-290.622, z=-213.338, w=-178.987, p=1.003, r=-2.330, f=False, u=True, t=True
+
+==== Close gripper
+
+==== Above Picking up peg
+
+===== Above insertion pos
+Current world location: x=444.936, y=-22.675, z=-100.867, w=170.878, p=-82.793, r=5.747, f=True, u=True, t=True
+
+===== just before hole w/ peg
+x=514, y=-16.575, z=-280.859, w=63.613, p=-88.844, r=114.091, f=True, u=True, t=True
+
+===== inside peg hole w/ peg
+x=586.743, y=-16.575, z=-280.859, w=63.613, p=-88.844, r=114.091, f=True, u=True, t=True
+
+===== Peg insertion
+Current world location: x=585.263, y=-5.453, z=-227.577, w=-175.931, p=-88.057, r=-4.035, f=True, u=True, t=True
+
+==== Open gripper
+
+==== just before hole w/ peg
+
+
+
+x=414.273, y=-292.310, z=-212.355, w=-179.137, p=-0.606, r=-3.587, f=False, u=True, t=True
+
+x=402.368, y=362.836, z=-302.223, w=-177.564, p=2.676, r=-132.382, f=False, u=True, t=True
+
+x=401.985, y=366.375, z=-295.562, w=179.699, p=0.962, r=47.409, f=False, u=True, t=True
+
+==== left
+Current world location: x=425.330, y=-356.436, z=-180.083, w=-179.407, p=-4.169, r=-53.070, f=False, u=True, t=True
