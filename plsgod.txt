@@ -1,0 +1,3 @@
+Current world location: x=321.276, y=-5.707, z=-382.245, w=-179.805, p=0.268, r=-0.795, f=False, u=True, t=True
+
+Current joint location: j1=-1.220, j2=59.812, j3=-74.340, j4=-0.703, j5=-15.931, j6=1.101
